@@ -9,7 +9,6 @@ issue_templates:
     file: test4.md
   - name: UI Bug Report
     description: "Report a UI-related bug."
-  # Feature Request Templates
   - name: Major Feature Request
     description: "Request a major new feature."
     file: test3.md
