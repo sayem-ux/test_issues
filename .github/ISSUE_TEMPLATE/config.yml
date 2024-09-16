@@ -20,3 +20,8 @@ issue_templates:
   - name: UI Feature Request
     description: "Request UI improvements."
     file: test5.md
+
+    
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
