@@ -17,7 +17,7 @@ issue_templates:
     file: test2.md
   - name: UI Feature Request
     description: "Request UI improvements."
-    file: test5.md
+    file: test5
 
 contact_links:
   - name: GitHub Security Bug Bounty
