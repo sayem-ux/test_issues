@@ -1,5 +1,5 @@
 ---
-name: Feature test4
+name: test4
 about: Suggest an idea for this project
 title: ''
 labels: ''
