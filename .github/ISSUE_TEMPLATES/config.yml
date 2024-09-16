@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+issue_templates:
+  # Bug Report Templates
+  - name: Critical Bug Report
+    description: "Report a critical bug."
+    file: test1.md
+  - name: Minor Bug Report
+    description: "Report a minor bug."
+    file: test4.md
+  - name: UI Bug Report
+    description: "Report a UI-related bug."
+
+  # Feature Request Templates
+  - name: Major Feature Request
+    description: "Request a major new feature."
+    file: test3.md
+  - name: Enhancement Feature Request
+    description: "Request a feature enhancement."
+    file: test2.md
+  - name: UI Feature Request
+    description: "Request UI improvements."
+    file: test5.md
